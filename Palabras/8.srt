@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:11,540
+Entonces, hay un actuador electromagnético en lo que es el mecanismo de percusión y otro actuador para el corte de la cinta por medio de la navaja.
+
+2
+00:00:11,880 --> 00:00:14,500
+El anillo de la cinta pues está dentro de la cinta.
+
+3
+00:00:14,980 --> 00:00:18,840
+La bocina ponla donde mejor parezca sobre la caja.
+
+4
+00:00:19,700 --> 00:00:26,200
+La canaleta pues es sobre la cual se va a estar desplazando la cinta mientras se le perfora.
+
+5
+00:00:26,520 --> 00:00:28,260
+Bueno, pues ahí está la cinta.
+
+6
+00:00:28,260 --> 00:00:32,540
+El eje del motor es el eje del motor a pasos.
+
+7
+00:00:32,960 --> 00:00:36,480
+El eje del servomotor pues precisamente el del servomotor.
+
+8
+00:00:37,840 --> 00:00:41,940
+La guía está entre los dos soportes al igual que el usillo.
+
+9
+00:00:42,520 --> 00:00:45,520
+A la Jetson ponla donde caiga mejor.
+
+10
+00:00:48,100 --> 00:00:51,460
+¿Qué más? ¿Qué más? El micrófono también ve dónde ponerlo.
+
+11
+00:00:51,700 --> 00:00:53,160
+No lo he pensado bien dónde.
+
+12
+00:00:53,160 --> 00:01:02,080
+El motor a pasos es el que está ahí acoplado a un lado de uno de los dos soportes del mecanismo de percusión.
+
+13
+00:01:02,500 --> 00:01:03,240
+Ahí lo indiqué.
+
+14
+00:01:04,080 --> 00:01:05,360
+La navaja ya te dije.
+
+15
+00:01:05,360 --> 00:01:15,780
+El punzón pues también va ahí dentro de la pieza del actuador electromagnético que está en el mecanismo de percusión.
+
+16
+00:01:16,700 --> 00:01:19,640
+El rodillo de la cinta es el que tiene internamente...
+
+17
+00:01:19,640 --> 00:01:25,860
+Bueno, de afuera hacia adentro es cinta, anillo de la cinta y rodillo de la cinta.
+
+18
+00:01:26,420 --> 00:01:30,600
+Y pues el anillo de la cinta con el rodillo tienen que encajar.
+
+19
+00:01:30,600 --> 00:01:38,500
+Los rodillos pues es una pieza la que mandé pero pues son los mismos dos rodillos así que se tienen que generar dos.
+
+20
+00:01:39,440 --> 00:01:40,800
+El servomotor ya te dije.
+
+21
+00:01:41,020 --> 00:01:41,800
+Los soportes también.
+
+22
+00:01:42,200 --> 00:01:43,700
+Ah, la tapa de la canaleta.
+
+23
+00:01:45,160 --> 00:01:47,940
+La tapa de la canaleta va encima de la canaleta.
+
+24
+00:01:48,240 --> 00:01:51,300
+Ya están pues medidos para que encaje.
+
+25
+00:01:52,640 --> 00:01:54,100
+Ya solamente la pones.
+
+26
+00:01:54,100 --> 00:01:56,740
+A la pieza que se llama tuerca 1 no le hagas caso.
+
+27
+00:01:57,020 --> 00:02:00,000
+Esa fue una primera versión del cabezal.
+
+28
+00:02:00,920 --> 00:02:03,240
+Y la tuerca 2 pues viene siendo el cabezal.
+
+29
+00:02:03,500 --> 00:02:07,900
+Entonces ese va sobre el lucillo y sobre la guía.
+
